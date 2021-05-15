@@ -1,0 +1,11 @@
+
+body {
+    font-family: sans-serif;
+ 
+        
+  background-image: linear-gradient(#009999,#028E9B,#98ED00);
+}
+.andr {
+    display:flex;
+    justify-content:center;
+}
